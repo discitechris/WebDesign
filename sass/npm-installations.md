@@ -27,3 +27,7 @@ run script
 $ npm run compile:sass
 ```
 
+if watch:sass says file not found error. 
+
+follow the github issues checkout @marcosbozzani to solve [link here](https://github.com/sass/node-sass/issues/2022)
+
