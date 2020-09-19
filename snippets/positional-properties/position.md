@@ -36,7 +36,7 @@ means is “relative to itself”. an element’s original position remains in t
 * Absolute positioned elements that have **no** **`width`** set on them behave a bit strangely. Their width is only as wide as it needs to be to hold the content.
 * allows you to literally place any page element exactly where you want it.
 * Remember that the positional properties values will be **relative** to the **next parent element** with **relative \(or absolute\) positioning**.
-  *  If there is no such parent, it will default all the way back up to the `<html>` element itself meaning it will be placed relative to the page itself.
+  *  If there is **no** such parent, it will default all the way back up to the **`<html>`** element itself meaning it will be **placed relative** to the **page itself.**
 
 ## **fixed**
 
