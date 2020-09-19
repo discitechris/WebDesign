@@ -5,10 +5,12 @@
 
 ## SNIPPETS
 
+* [Flexbox](snippets/flexbox/README.md)
+  * [Parent \(flex container\) properties](snippets/flexbox/parent-flex-container-properties.md)
+  * [Child \(flex items\) properties](snippets/flexbox/child-flex-items-properties.md)
 * [Grid](snippets/grid/README.md)
   * [Parent \(Grid Container\) properties](snippets/grid/parent-grid-container-properties.md)
   * [Children \(Grid Items\) Properties](snippets/grid/children-grid-items-properties.md)
-* [Flexbox](snippets/flexbox.md)
 * [Positional Properties](snippets/positional-properties.md)
 * [Font Properties](snippets/font-properties.md)
 * [Text Properties](snippets/text-properties.md)

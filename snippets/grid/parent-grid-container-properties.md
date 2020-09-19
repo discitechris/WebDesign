@@ -1,12 +1,12 @@
 # Parent \(Grid Container\) properties
 
-**display: grid / inline-grid ❖ grid-template-columns/rows ❖ grid-template-areas** 
-
-**❖ column/row-gap** 
-
-**❖ justify-items ❖ align-items ❖ justify-content ❖ align-content** 
-
-**❖ grid-auto-columns/rows ❖ grid-auto-flow**
+* **DISPLAY:**           [**`grid`**](parent-grid-container-properties.md#display) **/ `inline-grid`**   
+* **PLACEMENT:**    [**`grid-template`**](parent-grid-container-properties.md#grid-template) \([**`grid-template-columns`**](parent-grid-container-properties.md#grid-template-columns-grid-template-rows) ,**`grid-template-rows`**\) , 
+*                              [**`grid-template-areas`**](parent-grid-container-properties.md#grid-template-areas) ,[**`grid-auto-columns`**](parent-grid-container-properties.md#grid-auto-columns-grid-auto-rows) and **`grid-auto-rows`** ,  
+*                              ****[**`grid-auto-flow`**](parent-grid-container-properties.md#grid-auto-flow)**\`\`**
+* **ALIGNMENT:**    [**`gap`**](parent-grid-container-properties.md#column-gap-row-gap) **\(`column-gap`,`row-gap` \),**[**`justify-items`**](parent-grid-container-properties.md#justify-items) ****\(items-inline-row-axis\),
+*                             [**`justify-content`**](parent-grid-container-properties.md#justify-content) ****\(grid-inline-row-axis\) ,[**`align-items`**](parent-grid-container-properties.md#align-items) \(items-block- column-axis\)                                         
+*                            ****[**`align-content`**](parent-grid-container-properties.md#align-content)\( grid-block-column-axis\)
 
 ### display
 
