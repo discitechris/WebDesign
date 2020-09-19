@@ -4,11 +4,8 @@
 **NOTE:   `float`**, **`display: inline-block`**, **`display: table-cell`**,**`vertical-align`** and **`column-*`** properties have **no effect** on a **grid item.**
 {% endhint %}
 
-**Grid Items Properties:**
-
-**grid-column/row ❖ grid-area** 
-
-**❖ justify-self ❖ align-self**
+* **PLACEMENT:**    [**`grid-(column / row)`**](children-grid-items-properties.md#grid-column-grid-row)**,** [**`grid-area`**](children-grid-items-properties.md#grid-area) ****
+* **ALIGNMENT:**     [**`justify-self`**](children-grid-items-properties.md#justify-self) **,** [**`align-self`**](children-grid-items-properties.md#align-self)**\`\`**
 
 ### grid-column / grid-row
 
@@ -92,7 +89,7 @@ As a way to assign a name to the item:
 
 **`place-self`** : sets both the **`align-self`** and **`justify-self`** properties in a single declaration.
 
-#### Values:
+Values:
 
 {% tabs %}
 {% tab title="stretch" %}
@@ -143,7 +140,7 @@ As a way to assign a name to the item:
 
 **`place-self`** : sets both the **`align-self`** and **`justify-self`** properties in a single declaration.
 
-#### Values:
+Values:
 
 {% tabs %}
 {% tab title="stretch" %}
