@@ -5,7 +5,9 @@
 
 ## SNIPPETS
 
-* [Grid](snippets/grid.md)
+* [Grid](snippets/grid/README.md)
+  * [Parent \(Grid Container\) properties](snippets/grid/parent-grid-container-properties.md)
+  * [Children \(Grid Items\) Properties](snippets/grid/children-grid-items-properties.md)
 * [Flexbox](snippets/flexbox.md)
 * [Positional Properties](snippets/positional-properties.md)
 * [Font Properties](snippets/font-properties.md)
