@@ -1,7 +1,11 @@
 # Table of contents
 
 * [HTML](README.md)
-* [CSS](css.md)
+* [CSS](css/README.md)
+  * [CSS Properties Ref \(A - G\)](css/css-properties-ref-a-g.md)
+  * [CSS Properties Ref \(H - P\)](css/css-properties-ref-h-p.md)
+  * [CSS Properties Ref \( Q - Z \)](css/css-properties-ref-q-z.md)
+  * [Categorical CSS](css/categorical-css.md)
 
 ## SNIPPETS
 
@@ -12,6 +16,7 @@
   * [Parent \(Grid Container\) properties](snippets/grid/parent-grid-container-properties.md)
   * [Children \(Grid Items\) Properties](snippets/grid/children-grid-items-properties.md)
 * [Positional Properties](snippets/positional-properties/README.md)
+  * [Float](snippets/positional-properties/float.md)
   * [Display](snippets/positional-properties/display.md)
   * [Box-Model](snippets/positional-properties/box-model.md)
   * [Position](snippets/positional-properties/position.md)

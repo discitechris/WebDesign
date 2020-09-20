@@ -20,6 +20,8 @@ Relative to its original position the element above will now be nudged down from
 
 ## **relative**
 
+A page element with **relative positioning** gives you the control to **absolutely position** children elements inside of it.
+
 means is “relative to itself”. an element’s original position remains in the flow of the document, just like the static value.
 
 * But now **`left`** / **`right`** / **`top`** / **`bottom`** / **`z-index`** will work.
@@ -30,17 +32,22 @@ means is “relative to itself”. an element’s original position remains in t
 
 ## **absolute**
 
- the element is removed from the flow of the document and other elements will behave as if it’s not even there whilst all the other 
+*  Absolutely positioned page elements are **removed** from the flow of the webpage
+* Allows you to literally place any page element exactly where you want it.
+* An element with this type of positioning is not affected by other elements and it doesn’t affect other elements.
+* This is a serious thing to consider every time you use absolute positioning. 
+* Its overuse or improper use can limit the flexibility of your site.
 
-* if there is a **`left`** / **`right`** / **`top`** / **`bottom`** / **`z-index`**positional properties will work on it.
+
+
 * Absolute positioned elements that have **no** **`width`** set on them behave a bit strangely. Their width is only as wide as it needs to be to hold the content.
-* allows you to literally place any page element exactly where you want it.
+* if there is a **`left`** / **`right`** / **`top`** / **`bottom`** / **`z-index`**positional properties will work on it.
 * Remember that the positional properties values will be **relative** to the **next parent element** with **relative \(or absolute\) positioning**.
   *  If there is **no** such parent, it will default all the way back up to the **`<html>`** element itself meaning it will be **placed relative** to the **page itself.**
 
 ## **fixed**
 
- the element is removed from the flow of the document like absolutely positioned elements.
+  A **`fixed`** position element is positioned relative to the _**viewport**_, or the browser window itself. the element is removed from the flow of the document like absolutely positioned elements.
 
 * In fact they behave almost the same, only fixed positioned elements are always **relative to the document**, not any particular parent, and are **unaffected by scrolling**.
 

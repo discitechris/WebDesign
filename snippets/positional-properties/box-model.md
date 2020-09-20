@@ -86,3 +86,33 @@ Values:
 
 
 
+## Border
+
+shorthand syntax, accepts multiple values for drawing a line around the element it is applied to.
+
+```css
+border:  <border-width> || <border-style> || <color>
+border-bottom: <border-width> || <border-style> || <color>
+border-left : <border-width> || <border-style> || <color>
+```
+
+Values for border-width:
+
+* **`<length>`** : A numeric value measured in px, em, rem, vh and vw units.
+* **`thin`** : The equivalent of 1px
+* **`medium`** : The equivalent of 3px
+* **`thick`** : The equivalent of 5px
+
+Values for border-style:
+
+* **`solid`** : A solid, continuous line.
+* **`none` \(default\)** : No line is drawn.
+* **`hidden`** : A line is drawn, but not visible. this can be handy for adding a little extra width to an element without displaying a border.
+* **`dashed`** : A line that consists of dashes.
+* **`dotted`** : A line that consists of dots.
+* **`double`** : Two lines are drawn around the element.
+* **`groove`** : Adds a bevel based on the color value in a way that makes the element appear pressed into the document.
+* **`ridge`** : Similar to groove, but reverses the color values in a way that makes the element appear raised.
+* **`inset`** : Adds a split tone to the line that makes the element appear slightly depressed.
+* **`outset`** : Similar to inset, but reverses the colors in a way that makes the element appear slightly raised.
+
