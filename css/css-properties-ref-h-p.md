@@ -1,7 +1,5 @@
 # CSS Properties Ref \(H - P\)
 
-
-
 ## ⮜⮜⮜⮜⮜ H SELECTOR ⮞⮞⮞⮞⮞
 
 * [**:hover**](https://css-tricks.com/almanac/selectors/h/hover)
@@ -18,7 +16,6 @@
 * [**:indeterminate**](https://css-tricks.com/almanac/selectors/i/indeterminate)
 * [**:invalid**](https://css-tricks.com/almanac/selectors/i/invalid)
 * [**:is\(\)**](https://css-tricks.com/almanac/selectors/i/is)
-* [**ID**](https://css-tricks.com/almanac/selectors/i/id) ****⭐ **02**
 
 ## ⭪⭪⭪⭪⭪⭪⭪  I PROPERTIES ⭬⭬⭬⭬⭬⭬⭬
 
@@ -27,8 +24,6 @@
 * [**isolation**](https://css-tricks.com/almanac/properties/i/isolation)
 
 ## ⭪⭪⭪⭪⭪⭪⭪  J PROPERTIES ⭬⭬⭬⭬⭬⭬⭬
-
-* [**justify-content**](https://css-tricks.com/almanac/properties/j/justify-content)
 
 ## ⮜⮜⮜⮜⮜ L SELECTOR ⮞⮞⮞⮞⮞
 
@@ -39,7 +34,6 @@
 
 ## ⭪⭪⭪⭪⭪⭪⭪  L PROPERTIES ⭬⭬⭬⭬⭬⭬⭬
 
-* [**left**](https://css-tricks.com/almanac/properties/l/left)
 * [**letter-spacing**](https://css-tricks.com/almanac/properties/l/letter-spacing)
 * [**line-clamp**](https://css-tricks.com/almanac/properties/l/line-clamp)
 * [**line-height**](https://css-tricks.com/almanac/properties/l/line-height)
@@ -52,11 +46,6 @@
 
 ## ⭪⭪⭪⭪⭪⭪⭪  M PROPERTIES ⭬⭬⭬⭬⭬⭬⭬
 
-* [**margin**](https://css-tricks.com/almanac/properties/m/margin)
-* [**max-height**](https://css-tricks.com/almanac/properties/m/max-height)
-* [**max-width**](https://css-tricks.com/almanac/properties/m/max-width)
-* [**min-height**](https://css-tricks.com/almanac/properties/m/min-height)
-* [**min-width**](https://css-tricks.com/almanac/properties/m/min-width)
 * [**mix-blend-mode**](https://css-tricks.com/almanac/properties/m/mix-blend-mode)
 
 ## ⮜⮜⮜⮜⮜ N SELECTOR ⮞⮞⮞⮞⮞
@@ -83,7 +72,6 @@
 * [**offset-path**](https://css-tricks.com/almanac/properties/o/offset-path)
 * [**offset-rotate**](https://css-tricks.com/almanac/properties/o/offset-rotate)
 * [**opacity**](https://css-tricks.com/almanac/properties/o/opacity)
-* [**order**](https://css-tricks.com/almanac/properties/o/order)
 * [**orphans**](https://css-tricks.com/almanac/properties/o/orphans)
 * [**outline**](https://css-tricks.com/almanac/properties/o/outline)
 * [**outline-offset**](https://css-tricks.com/almanac/properties/o/outline-offset)
@@ -99,11 +87,9 @@
 
 ## ⭪⭪⭪⭪⭪⭪⭪  P PROPERTIES ⭬⭬⭬⭬⭬⭬⭬
 
-* [**padding**](https://css-tricks.com/almanac/properties/p/padding)
 * [**page-break**](https://css-tricks.com/almanac/properties/p/page-break)
 * [**perspective**](https://css-tricks.com/almanac/properties/p/perspective)
 * [**perspective-origin**](https://css-tricks.com/almanac/properties/p/perspective-origin)
 * [**place-items**](https://css-tricks.com/almanac/properties/p/place-items)
 * [**pointer-events**](https://css-tricks.com/almanac/properties/p/pointer-events)
-* [**position**](https://css-tricks.com/almanac/properties/p/position)
 

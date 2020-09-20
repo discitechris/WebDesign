@@ -13,7 +13,6 @@
 ## ⭪⭪⭪⭪⭪⭪⭪  R PROPERTIES ⭬⭬⭬⭬⭬⭬⭬
 
 * [**resize**](https://css-tricks.com/almanac/properties/r/resize)
-* [**right**](https://css-tricks.com/almanac/properties/r/right)
 
 ## ⮜⮜⮜⮜⮜ S SELECTOR ⮞⮞⮞⮞⮞
 
@@ -43,7 +42,6 @@
 ## ⮜⮜⮜⮜⮜ T SELECTOR ⮞⮞⮞⮞⮞
 
 * [**:target**](https://css-tricks.com/almanac/selectors/t/target)
-* [**Type**](https://css-tricks.com/almanac/selectors/t/type)  ****⭐**03**
 
 ## ⭪⭪⭪⭪⭪⭪⭪  T PROPERTIES ⭬⭬⭬⭬⭬⭬⭬
 
@@ -79,7 +77,6 @@
 ## ⮜⮜⮜⮜⮜ U SELECTOR ⮞⮞⮞⮞⮞
 
 * [**:user-invalid**](https://css-tricks.com/almanac/selectors/u/user-invalid)
-* [**Universal**](https://css-tricks.com/almanac/selectors/u/universal)
 
 ## ⭪⭪⭪⭪⭪⭪⭪  U PROPERTIES ⭬⭬⭬⭬⭬⭬⭬
 
@@ -101,7 +98,6 @@
 
 * [**white-space**](https://css-tricks.com/almanac/properties/w/whitespace)
 * [**widows**](https://css-tricks.com/almanac/properties/w/widows)
-* [**width**](https://css-tricks.com/almanac/properties/w/width)
 * [**will-change**](https://css-tricks.com/almanac/properties/w/will-change)
 * [**word-break**](https://css-tricks.com/almanac/properties/w/word-break)
 * [**word-spacing**](https://css-tricks.com/almanac/properties/w/word-spacing)

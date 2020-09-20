@@ -283,7 +283,6 @@ input[type=checkbox]:checked + label {
 * [**:default**](https://css-tricks.com/almanac/selectors/d/default)
 * [**:dir\(\)**](https://css-tricks.com/almanac/selectors/d/dir)
 * [**:disabled**](https://css-tricks.com/almanac/selectors/d/disabled)
-* [**Descendant**](https://css-tricks.com/almanac/selectors/d/descendant) ****⭐ **04**
 
 ## ⭪⭪⭪⭪⭪⭪⭪  D PROPERTIES ⭬⭬⭬⭬⭬⭬⭬
 
@@ -315,14 +314,6 @@ input[type=checkbox]:checked + label {
 
 ### [**filter**](https://css-tricks.com/almanac/properties/f/filter)
 
-* [**flex**](https://css-tricks.com/almanac/properties/f/flex)
-* [**flex-basis**](https://css-tricks.com/almanac/properties/f/flex-basis)
-* [**flex-direction**](https://css-tricks.com/almanac/properties/f/flex-direction)
-* [**flex-flow**](https://css-tricks.com/almanac/properties/f/flex-flow)
-* [**flex-grow**](https://css-tricks.com/almanac/properties/f/flex-grow)
-* [**flex-shrink**](https://css-tricks.com/almanac/properties/f/flex-shrink)
-* [**flex-wrap**](https://css-tricks.com/almanac/properties/f/flex-wrap)
-* [**float**](https://css-tricks.com/almanac/properties/f/float)
 * [**font**](https://css-tricks.com/almanac/properties/f/font)
 * [**font-display**](https://css-tricks.com/almanac/properties/f/font-display)
 * [**font-family**](https://css-tricks.com/almanac/properties/f/font-family)
@@ -335,12 +326,5 @@ input[type=checkbox]:checked + label {
 * [**font-variant-numeric**](https://css-tricks.com/almanac/properties/f/font-variant-numeric)
 * [**font-weight**](https://css-tricks.com/almanac/properties/f/font-weight)
 
-## ⮜⮜⮜⮜⮜ G SELECTOR ⮞⮞⮞⮞⮞
 
-* [**General sibling**](https://css-tricks.com/almanac/selectors/g/general-sibling)
-
-## ⭪⭪⭪⭪⭪⭪⭪  G PROPERTIES ⭬⭬⭬⭬⭬⭬⭬
-
-* [**grid-row / grid-column**](https://css-tricks.com/almanac/properties/g/grid-row-column)
-* [**grid-template-columns / grid-template-rows**](https://css-tricks.com/almanac/properties/g/grid-rows-columns)
 
