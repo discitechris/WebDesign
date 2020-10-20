@@ -1,6 +1,6 @@
 # Block Element Modifier
 
-## Block
+## Block 🧶 
 
 Standalone entity that is meaningful on its own.
 
@@ -32,7 +32,7 @@ Any DOM node can be a block if it accepts a class name.
 .block { color: #042; }
 ```
 
-## Element
+## Element 🔵 
 
 A part of a block that has no standalone meaning and is semantically tied to its **block**.
 
@@ -74,7 +74,7 @@ Any DOM node within a block can be an element. Within a given block, all element
 	div.block__elem { color: #042; }
 ```
 
-## Modifier
+## Modifier 🔴 
 
 A flag on a block or element. Use them to change appearance or behavior.
 
@@ -147,4 +147,8 @@ Suppose you have block form with modifiers `theme: "xmas"` and `simple: true` an
 .form__submit { }
 .form__submit--disabled { }
 ```
+
+![Block  ](../.gitbook/assets/bem.jpg)
+
+#### Block 🧶 Element 🔵 Modifier 🔴 
 
