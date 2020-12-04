@@ -6,7 +6,7 @@ description: Step-by-step process for Configuring Webpack to support SASS in JS
 
 ## SASS Development Build
 
-we need to install the loaders \(and the sass package for Node.js\):
+we need to install the loaders \(and the **`sass`** package for **Node.js**\):
 
 * **`sass-loader`** for loading SASS files with **`import`**
 * **`css-loader`** for loading CSS files as modules
