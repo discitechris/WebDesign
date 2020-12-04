@@ -38,7 +38,7 @@ module.exports = {
 
 To test CSS in webpack create a simple stylesheet in **`src/style.css`**:
 
-```text
+```css
 h1 {
     color: orange;
 }
@@ -46,24 +46,24 @@ h1 {
 
 Also, add an HTML element to our HTML template in **`src/index.html`**:
 
-```text
+```markup
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Webpack tutorial</title>
+    <title>Webpack CSS Setup</title>
 </head>
 <body>
-<h1>Hello webpack!</h1>
+<h1>Webpack: Welcome CSS!</h1>
 </body>
 </html>
 ```
 
 Finally, load the CSS in **`src/index.js`**:
 
-```text
+```javascript
 import "./style.css";
-console.log("Hello webpack!");
+console.log("Hi webpack!");
 ```
 
 ## CSS Production Build
@@ -109,7 +109,7 @@ module.exports = {
 
 To test CSS in webpack create a simple stylesheet in **`src/style.css`**:
 
-```text
+```css
 h1 {
     color: orange;
 }
@@ -117,7 +117,7 @@ h1 {
 
 Finally, load the CSS in **`src/index.js`**:
 
-```text
+```javascript
 import "./style.css";
 console.log("Hello webpack!");
 ```
