@@ -1,29 +1,29 @@
 # Table of contents
 
 * [HTML](README.md)
-* [CSS](css/README.md)
-  * [CSS Properties Ref \(A - G\)](css/css-properties-ref-a-g.md)
-  * [CSS Properties Ref \(H - P\)](css/css-properties-ref-h-p.md)
-  * [CSS Properties Ref \( Q - Z \)](css/css-properties-ref-q-z.md)
-  * [Categorical CSS](css/categorical-css.md)
 
-## SNIPPETS
+## CSS <a id="css-1"></a>
 
-* [Flexbox](snippets/flexbox/README.md)
-  * [Parent \(flex container\) properties](snippets/flexbox/parent-flex-container-properties.md)
-  * [Child \(flex items\) properties](snippets/flexbox/child-flex-items-properties.md)
-* [Grid](snippets/grid/README.md)
-  * [Parent \(Grid Container\) properties](snippets/grid/parent-grid-container-properties.md)
-  * [Children \(Grid Items\) Properties](snippets/grid/children-grid-items-properties.md)
-* [Positional Properties](snippets/positional-properties/README.md)
-  * [Float](snippets/positional-properties/float.md)
-  * [Display](snippets/positional-properties/display.md)
-  * [Box-Model](snippets/positional-properties/box-model.md)
-  * [Position](snippets/positional-properties/position.md)
-* [Font Properties](snippets/font-properties.md)
-* [Text Properties](snippets/text-properties.md)
-* [List Properties](snippets/list-properties.md)
-* [Styling Properties](snippets/styling-properties.md)
+* [Flexbox](css-1/flexbox/README.md)
+  * [Parent \(flex container\) properties](css-1/flexbox/parent-flex-container-properties.md)
+  * [Child \(flex items\) properties](css-1/flexbox/child-flex-items-properties.md)
+* [Grid](css-1/grid/README.md)
+  * [Parent \(Grid Container\) properties](css-1/grid/parent-grid-container-properties.md)
+  * [Children \(Grid Items\) Properties](css-1/grid/children-grid-items-properties.md)
+* [Positional Properties](css-1/positional-properties/README.md)
+  * [Float](css-1/positional-properties/float.md)
+  * [Display](css-1/positional-properties/display.md)
+  * [Box-Model](css-1/positional-properties/box-model.md)
+  * [Position](css-1/positional-properties/position.md)
+* [Font Properties](css-1/font-properties.md)
+* [Text Properties](css-1/text-properties.md)
+* [List Properties](css-1/list-properties.md)
+* [Styling Properties](css-1/styling-properties.md)
+* [Reference List](css-1/css/README.md)
+  * [CSS Properties Ref \(A - G\)](css-1/css/css-properties-ref-a-g.md)
+  * [CSS Properties Ref \(H - P\)](css-1/css/css-properties-ref-h-p.md)
+  * [CSS Properties Ref \( Q - Z \)](css-1/css/css-properties-ref-q-z.md)
+  * [Categorical CSS](css-1/css/categorical-css.md)
 
 ## DOM
 
