@@ -56,9 +56,6 @@
 
 ## Webpack
 
+* [CSS Configuration](webpack/css-configuration.md)
 * [SASS Configuration](webpack/sass-configuration.md)
-
----
-
-* [CSS Configuration](css-configuration.md)
 
