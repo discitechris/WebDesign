@@ -25,16 +25,9 @@
   * [CSS Properties Ref \( Q - Z \)](css-1/css/css-properties-ref-q-z.md)
   * [Categorical CSS](css-1/css/categorical-css.md)
 
-## DOM
+## CSS Code Snippets
 
-* [Document Object Model](dom/document-object-model.md)
-* [Document DOM](dom/document-dom.md)
-* [Elements DOM](dom/elements-dom.md)
-* [Events DOM](dom/events-dom.md)
-
-## NOTES
-
-* [Necessary Study](notes/necessary-study.md)
+* [Basic Setup](css-code-snippets/basic-setup.md)
 
 ## SASS
 
@@ -42,15 +35,22 @@
 * [Npm installations](sass/npm-installations.md)
 * [Sass @functions](sass/sass-functions.md)
 
+## DOM
+
+* [Document Object Model](dom/document-object-model.md)
+* [Document DOM](dom/document-dom.md)
+* [Elements DOM](dom/elements-dom.md)
+* [Events DOM](dom/events-dom.md)
+
 ## Design Systems
 
 * [Atomic Design](design-systems/atomic-design.md)
 
-## CSS Code Snippets
-
-* [Basic Setup](css-code-snippets/basic-setup.md)
-
 ## BEM
 
 * [Block Element Modifier](bem/block-element-modifier.md)
+
+## NOTES
+
+* [Necessary Study](notes/necessary-study.md)
 
