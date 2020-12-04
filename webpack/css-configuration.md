@@ -1,3 +1,7 @@
+---
+description: Step-by-step process for Configuring Webpack to support CSS in JS
+---
+
 # CSS Configuration
 
 ## CSS Development Build
